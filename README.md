@@ -1,4 +1,4 @@
-# Simple-Lending
+# BlockBorrow
 
 Borrow a dollar-pegged stablecoin against your productive cryptoassets (starting with xSUSHI) 🚀
 
